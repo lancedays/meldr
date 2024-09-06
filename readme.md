@@ -11,7 +11,7 @@
 - **Customizable Templates**: Use your own HTML templates to control the look and feel of your generated site.
 - **Dynamic Content Linking and Injection**: 
   - `$link`: Automatically create links to other Markdown files or external sites.
-  - `$insert=`: Inject content from other Markdown files, rendered as HTML.
+  - `$insert`: Inject content from other Markdown files, rendered as HTML.
 - **Development Server**: Build, serve, and watch your Markdown files for changes during development.
 
 ## Getting Started
